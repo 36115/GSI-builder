@@ -5,7 +5,6 @@ on:
     types: [started]
     
 env:
-  ROM_LINK: your rom's direct link
   ROM_LINK: https://master.dl.sourceforge.net/project/resurrectionremix/j4primelte/RROS-Q-8.6.5-20201226-j4primelte-Official.zip?viasf=1
   ROM_TYPE: Generic
   BUILD_AB: true
